@@ -1,0 +1,17 @@
+#15236522A;26368294Z
+s;JOSÉ: Hola, que tal estás?;20:14;2018/12/10;0
+p;FERNANDO: ¿Bien y tú?;20:16;2018/12/10;0
+s;JOSÉ: Tirando, mensaje largooooooooooooooo;9:02;2018/12/11;1
+s;JOSÉ: hola;1:29;2018/12/13;1
+p;FERNANDO: Hola.;1:32;2018/12/13;1
+p;FERNANDO: Hola.Hola.Hola.Hola.Hola.;1:33;2018/12/13;1
+#15236522A;12426345B
+s;JOSÉ: hola que tal;11:00;2019/01/21;1
+p;JUAN: bien y tu;13:50;2019/01/21;1
+p;JUAN: hola;19:55;2019/01/23;1
+#15236522A;17284628R
+s;JOSÉ: hola rober;23:03;2019/01/21;1
+s;JOSÉ: que tal;19:50;2019/01/23;1
+s;JOSÉ: hola;11:21;2019/01/27;1
+#15236522A;14325678L
+s;JOSÉ: hola;19:54;2019/01/23;1

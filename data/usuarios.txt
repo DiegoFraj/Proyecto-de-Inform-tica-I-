@@ -1,0 +1,56 @@
+p
+26368294Z
+FERNANDO;ALONSO
+37
+Calle Silverstone 14;Alcobendas
+637544381
+fernando1@gmail.com;893622
+./img/alonso.png
+p
+12426345B
+JUAN;DE LA VEGA
+81
+Calle Soleado;Madrid
+641836283
+juanvega@gmail.com;542682
+./img/usuario.png
+s
+15236522A
+PEPE;FERNÁNDEZ
+45
+Calle Sol;Madrid
+612155131
+pepe@gmail.com;123456
+./img/supervisor.png
+p
+17284628R
+ROBERTO;JIMENEZ LOPEZ
+77
+Calle Montevideo 13;Madrid
+623848243
+elrober77@gmail.com;472215
+./img/viejo.png
+s
+15236554B
+PEDRO;LOPEZ
+45
+Calle Pio;Madrid
+613342131
+pedro@gmail.com;123456
+./img/supervisor.png
+s
+15244222C
+ALEJANDRO;PEREZ
+38
+Calle Legazpi;Madrid
+612142131
+alex@gmail.com;123456
+./img/usuario.png
+p
+14325678L
+JUAN;PEREZ
+78
+calle manzano;Madrid
+654789434
+a@gmail.com;207484
+./img/usuario.png
